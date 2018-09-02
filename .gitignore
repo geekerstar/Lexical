@@ -1,2 +1,5 @@
-.idea
-lexical.iml
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
